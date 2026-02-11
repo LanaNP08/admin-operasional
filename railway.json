@@ -4,6 +4,6 @@
     "builder": "RAILPACK"
   },
   "deploy": {
-    "startCommand": null
+    "startCommand": "frankenphp run --config /app/Caddyfile"
   }
 }
